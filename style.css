@@ -1,6 +1,14 @@
 header{
+    height: 80px;
+    width: 1500px;
+    
     background-image: url(img/pattern.png);
     background-color: #4ea0ff
+}
+
+#unica{
+height: 110px;
+width: 130px;
 }
 
 span{
@@ -9,4 +17,9 @@ span{
 
 .grigi{
     color: #808080;
+
+}
+
+thead{
+    background-color: #20a9e5;
 }
